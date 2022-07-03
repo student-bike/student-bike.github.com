@@ -1,4 +1,3 @@
-# STUDENT BIKE
 
 RIPARAZIONE E ACCESSERI BICICLETTE PADOVA!
 
@@ -6,7 +5,6 @@ RIPARAZIONE E ACCESSERI BICICLETTE PADOVA!
 ## Indrizzo
 Piazza Alcide De Gasperi n.3 35131 PD
 
-![address](map.jpg)
 
 ## Orario
 tutti giorni dalle 8:30 alle 20:30 NO Domenica
@@ -14,4 +12,7 @@ tutti giorni dalle 8:30 alle 20:30 NO Domenica
 
 ## Contatto
 0498154620, 3400980497
+
+
+![address](map.jpg)
 
