@@ -19,6 +19,6 @@ tutti giorni dalle 8:30 alle 20:30 NO Domenica
 ![address](map.jpg)
 
 
-[![come si cambia camera d'area](cambiare camera d'area da Student bike padova.jpeg)](https://www.youtube.com/watch?v=RwD9H7xPb9c) 
+[![come si cambia camera d'area](pic2.jpeg)](https://www.youtube.com/watch?v=RwD9H7xPb9c) 
 
 
