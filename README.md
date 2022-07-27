@@ -18,3 +18,7 @@ tutti giorni dalle 8:30 alle 20:30 NO Domenica
 
 ![address](map.jpg)
 
+
+[![come si cambia camera d'area](video1.jpeg)](https://www.youtube.com/watch?v=RwD9H7xPb9c) 
+
+
