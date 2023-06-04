@@ -9,7 +9,7 @@ Piazza Alcide De Gasperi n.3 35131 PD
 
 
 ## Orario
-tutti giorni dalle 8:30 alle 20:30 NO Domenica
+tutti giorni dalle 9:00 alle 20:00 NO Domenica
 
 
 ## Contatto
